@@ -1,0 +1,12 @@
+.container {
+	text-align: center;
+}
+
+.inputContainer {
+	margin: 1rem 0;
+}
+
+.input {
+	font-size: 1.5rem;
+	border-radius: 0.25rem;
+}

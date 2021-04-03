@@ -1,0 +1,12 @@
+.default {
+	background: none;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+	font-size: 1.5rem;
+	background-color: white;
+	color: blue;
+	padding: 0.5rem;
+	border: 1px solid white;
+	border-radius: 0.25rem;
+}
